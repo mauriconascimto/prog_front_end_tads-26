@@ -1,0 +1,34 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Estilos Desktop*/
+body {
+
+    background-color: #0e1014;
+    color: #fff;
+
+}
+header {
+    display: block;
+    margin: 75px 0 0 360px;
+
+}
+h1 {
+    font-size: 64px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 0 0 60px 0;
+}
+
+h1 span {
+    color: #9747ff;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+    margin: 0 0 60px 0;
+}
