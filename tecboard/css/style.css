@@ -21,15 +21,25 @@
 
 /*Estilos Desktop*/
 body {
-
-    background-color: #0e1014;
+    background-color: #1a1a1a;
     color: #fff;
-
+    
 }
-header {
-    display: block;
-    margin: 75px 0 0 360px;
 
+header {
+    display: flex;
+     margin: 75px  360px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+header img {
+    display: block;
+}
+ 
+header span{
+    font-size: 24px;
+        cursor: pointer;
 }
 h1 {
     font-size: 64px;
